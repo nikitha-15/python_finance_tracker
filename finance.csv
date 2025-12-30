@@ -1,0 +1,6 @@
+date,amount,category,description
+01-01-2025,1000.0,Income,income
+03-01-2025,200.0,Expense,rent
+04-01-2025,2000.0,Income,salary
+05-01-2025,500.0,Expense,car
+07-01-2025,300.0,Income,income
